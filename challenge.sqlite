@@ -1,0 +1,5 @@
+ SELECT *
+ FROM news
+ WHERE publisher = 'Wall Street Journal';
+
+ 
